@@ -7,9 +7,11 @@ Square rainmeter apps
 ![Example layout](https://i.imgur.com/qyxJybw.png)
 
 ## Download
-[Installer](https://github.com/Filip9696/SquareApps/raw/master/Square%20Apps_1.1.rmskin)
+[Installer](https://github.com/Filip9696/SquareApps/raw/blue/Square%20Apps_1.1B.rmskin)
 
 [Red Installer](https://github.com/Filip9696/SquareApps/raw/red/Square%20Apps_1.1R.rmskin)
+
+[Greenish Blue Installer](https://github.com/Filip9696/SquareApps/raw/master/Square%20Apps_1.1.rmskin)
 
 ## Commiting
 Please keep all icons white with the greenish background
